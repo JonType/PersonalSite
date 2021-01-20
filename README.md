@@ -1,2 +1,2 @@
-# SubordinateWiggles
+# PersonalSite
 Personal project page 
